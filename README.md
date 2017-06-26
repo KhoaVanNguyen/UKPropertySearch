@@ -2,9 +2,13 @@
 
 A simple app to search homes in the UK
 
-![1](/screenshots/1.png)
+<!--![1](/screenshots/1.png)
 ![2](/screenshots/2.png)
-![3](/screenshots/3.png)
+![3](/screenshots/3.png)-->
+
+<img src="screenshots/1.png" width="320" height="480">
+<img src="screenshots/2.png" width="320" height="480">
+<img src="screenshots/3.png" width="320" height="480">
 ## Packages:
 "axios": "^0.16.2",
 "native-base": "^2.1.5",
