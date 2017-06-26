@@ -2,11 +2,11 @@
 
 A simple app to search homes in the UK
 
-
-[screenshot1]: /screenshots/1.png "Screen1"
-[screenshot2]: /screenshots/2.png "Screen2"
-[screenshot3]: /screenshots/3.png "Screen3"
-
+[![Alt text](screenshots/1.png)](https://www.youtube.com/watch?v=7NZpC1VWVJ8)
+![1](/screenshots/2.png)
+[screenshot2]: screenshots/2.png "Screen2"
+[screenshot3]: screenshots/3.png "Screen3"
+<img src="screenshots/2.png">
 ## Packages:
 "axios": "^0.16.2",
 "native-base": "^2.1.5",
